@@ -1,0 +1,22 @@
+C:\Users\Duda\OneDrive\Desktop\LH Pets\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Duda\OneDrive\Desktop\LH Pets\bin\Debug\net6.0\appsettings.json
+C:\Users\Duda\OneDrive\Desktop\LH Pets\bin\Debug\net6.0\LH Pets.exe
+C:\Users\Duda\OneDrive\Desktop\LH Pets\bin\Debug\net6.0\LH Pets.deps.json
+C:\Users\Duda\OneDrive\Desktop\LH Pets\bin\Debug\net6.0\LH Pets.runtimeconfig.json
+C:\Users\Duda\OneDrive\Desktop\LH Pets\bin\Debug\net6.0\LH Pets.dll
+C:\Users\Duda\OneDrive\Desktop\LH Pets\bin\Debug\net6.0\LH Pets.pdb
+C:\Users\Duda\OneDrive\Desktop\LH Pets\obj\Debug\net6.0\LH Pets.csproj.AssemblyReference.cache
+C:\Users\Duda\OneDrive\Desktop\LH Pets\obj\Debug\net6.0\LH Pets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Duda\OneDrive\Desktop\LH Pets\obj\Debug\net6.0\LH Pets.AssemblyInfoInputs.cache
+C:\Users\Duda\OneDrive\Desktop\LH Pets\obj\Debug\net6.0\LH Pets.AssemblyInfo.cs
+C:\Users\Duda\OneDrive\Desktop\LH Pets\obj\Debug\net6.0\LH Pets.csproj.CoreCompileInputs.cache
+C:\Users\Duda\OneDrive\Desktop\LH Pets\obj\Debug\net6.0\LH Pets.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Duda\OneDrive\Desktop\LH Pets\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Duda\OneDrive\Desktop\LH Pets\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Duda\OneDrive\Desktop\LH Pets\obj\Debug\net6.0\scopedcss\bundle\LH Pets.styles.css
+C:\Users\Duda\OneDrive\Desktop\LH Pets\obj\Debug\net6.0\LH Pets.dll
+C:\Users\Duda\OneDrive\Desktop\LH Pets\obj\Debug\net6.0\refint\LH Pets.dll
+C:\Users\Duda\OneDrive\Desktop\LH Pets\obj\Debug\net6.0\LH Pets.pdb
+C:\Users\Duda\OneDrive\Desktop\LH Pets\obj\Debug\net6.0\LH Pets.genruntimeconfig.cache
+C:\Users\Duda\OneDrive\Desktop\LH Pets\obj\Debug\net6.0\ref\LH Pets.dll
+C:\Users\Duda\OneDrive\Desktop\LH Pets\bin\Debug\net6.0\LH Pets.staticwebassets.runtime.json
