@@ -20,3 +20,4 @@ C:\Users\Duda\OneDrive\Desktop\LH Pets\obj\Debug\net6.0\LH Pets.pdb
 C:\Users\Duda\OneDrive\Desktop\LH Pets\obj\Debug\net6.0\LH Pets.genruntimeconfig.cache
 C:\Users\Duda\OneDrive\Desktop\LH Pets\obj\Debug\net6.0\ref\LH Pets.dll
 C:\Users\Duda\OneDrive\Desktop\LH Pets\bin\Debug\net6.0\LH Pets.staticwebassets.runtime.json
+C:\Users\Duda\OneDrive\Desktop\LH Pets\obj\Debug\net6.0\LH Pets.sourcelink.json

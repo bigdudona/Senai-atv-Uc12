@@ -15,7 +15,7 @@ namespace LH_Pets
         {
             SqlConnetcionStringBuilder builder = new SqlConnetcionStringBuilder(
                 "Intregated Security = true;" +
-                "Server=" +
+                "Server= DESKTOP-MCJPTHS\\SQLEXPRESS" +
                 "DataBase=vendas;" +
                 "Trusted_Connection=true;"
             );
